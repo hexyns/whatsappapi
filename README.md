@@ -8,7 +8,7 @@ git clone https://github.com/hexyns/whatsappapi
 ```
 Go to the WAG Directory
 ```bash
-cd WAG
+cd whatsappapi
 ```
 Run the Script !
 ```bash
